@@ -1,4 +1,4 @@
-module github.com/UndyingSugimoto/openapi-test
+module github.com/UndyingSugimoto/open-api-sample-go
 
 go 1.13
 
