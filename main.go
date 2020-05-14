@@ -13,7 +13,7 @@ import (
 	"log"
 	"net/http"
 
-	openapi "github.com/UndyingSugimoto/openapi-test/generated/go"
+	openapi "github.com/UndyingSugimoto/open-api-sample-go/go"
 )
 
 func main() {
